@@ -3,34 +3,7 @@
     padding: 0;
     font-family: 'Segoe UI', Verdana, sans-serif;
 }
-.conteiner{
-    width: 40rem;
-    height: 10rem;
-   
-}
-.card{
-    display: flex;
-    justify-content: space-between;
-    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+.espacamento{
+    height: .15rem;
 }
 
-.cardLeft{
-    padding: 1rem;
-}
-.cardLeft > h1{
-    padding: .5rem;
-}
-.cardLeft > p{
-    margin-bottom: .5rem;
-}
-
-.cardRight{
-    width: 15rem;
-    height: 10rem;
-    background-image: url('assets/img-anuncios-patrocinados.jpg');
-    background-size: cover;
-    background-position: right;
-    background-repeat: no-repeat;
-}
